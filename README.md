@@ -7,4 +7,4 @@
 <p>° CSS</p>
 <p>º JavaScript</p>
 <br>
-<img src="https://1drv.ms/i/s!Arem92juuQs_iE-u3w2GzLnTy2XI?e=Pc8hbe">
+<img src="https://github.com/tharikmoreira/Projeto-Conversor/blob/main/assets/conversor%20de%20moedas.png">
